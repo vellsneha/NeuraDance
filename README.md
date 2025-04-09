@@ -55,10 +55,9 @@ python genData.py
 You can choose one of the training scripts to train your model using the generated pose data.
 
 ```bash
-python trainModel1.py   # Basic model
+python trainModel1.py   # First model
 # OR
-python trainModel2.py   # Improved or alternate architecture
-
+python trainModel2.py   # Made few changes
 ```
 
 - Make sure `labels.npy` is present or created in the training script.
