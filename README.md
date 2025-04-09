@@ -7,7 +7,7 @@ A deep learning project for recognizing **dance forms** using images and videos,
 ## Directory Structure
 
 ```
-CV_Dance/
+NeuraDance/
 ├── DanceForms/           # Folder containing input dance videos (e.g., Bharatanatyam, Kathak, Mohiniyattam, etc.)
 ├── DataGen/              # Generated .npy pose data from videos
 ├── ImagesToPredict/      # Images used for prediction using the trained model
