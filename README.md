@@ -17,7 +17,7 @@ CV_Dance/
 ├── model.h5              # Trained Keras model
 ├── predict.py            # Predicts the dance form from images
 ├── trainModel1.py        # Training script (Version 1)
-├── trainModel2.py        # Training script (Version 2, possibly with improved architecture)
+├── trainModel2.py        # Training script (Version 2)
 
 ```
 
